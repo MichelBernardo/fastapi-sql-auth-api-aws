@@ -1,0 +1,9 @@
+.vscode
+.env
+venv
+__pycache__
+api/v1/__pycache__
+api/v1/endpoints/__pycache__
+core/__pycache__
+models/__pycache__
+schemas/__pycache__
